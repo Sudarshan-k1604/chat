@@ -44,11 +44,13 @@ npm install
 
 3. Configure Environment Variables
 
-Create a .env file in the root directory:
 
-REACT_APP_COMETCHAT_APP_ID=your_app_id
-REACT_APP_COMETCHAT_REGION=your_region
-REACT_APP_COMETCHAT_AUTH_KEY=your_auth_key
+
+    APP_ID: "2755492ef5b8e4d0",       
+
+    REGION: "IN",                    
+
+    AUTH_KEY: "b4dd62e7f12ffff6ee58c4c39f14998295c7ab51",
 
 Get these credentials from your CometChat Dashboard.
 
